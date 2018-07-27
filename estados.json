@@ -1,0 +1,164 @@
+[
+  {
+    "Estado": "Acre",
+    "Sigla": "AC",
+    "Capital": "Rio Branco",
+    "Região": "Norte"
+  },
+  {
+    "Estado": "Alagoas",
+    "Sigla": "AL",
+    "Capital": "Maceió",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Amapá",
+    "Sigla": "AP",
+    "Capital": "Macapá",
+    "Região": "Norte"
+  },
+  {
+    "Estado": "Amazonas",
+    "Sigla": "AM",
+    "Capital": "Manaus",
+    "Região": "Norte"
+  },
+  {
+    "Estado": "Bahia",
+    "Sigla": "BA",
+    "Capital": "Salvador",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Ceará",
+    "Sigla": "CE",
+    "Capital": "Fortaleza",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Distrito Federal",
+    "Sigla": "DF",
+    "Capital": "Brasília",
+    "Região": "Centro-Oeste"
+  },
+  {
+    "Estado": "Espírito Santo",
+    "Sigla": "ES",
+    "Capital": "Vitória",
+    "Região": "Sudeste"
+  },
+  {
+    "Estado": "Goiás",
+    "Sigla": "GO",
+    "Capital": "Goiânia",
+    "Região": "Centro-Oeste"
+  },
+  {
+    "Estado": "Maranhão",
+    "Sigla": "MA",
+    "Capital": "São Luís",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Mato Grosso",
+    "Sigla": "MT",
+    "Capital": "Cuiabá",
+    "Região": "Centro-Oeste"
+  },
+  {
+    "Estado": "Mato Grosso do Sul",
+    "Sigla": "MS",
+    "Capital": "Campo Grande",
+    "Região": "Centro-Oeste"
+  },
+  {
+    "Estado": "Minas Gerais",
+    "Sigla": "MG",
+    "Capital": "Belo Horizonte",
+    "Região": "Sudeste"
+  },
+  {
+    "Estado": "Paraná",
+    "Sigla": "PR",
+    "Capital": "Curitiba",
+    "Região": "Sul"
+  },
+  {
+    "Estado": "Paraíba",
+    "Sigla": "PB",
+    "Capital": "João Pessoa",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Pará",
+    "Sigla": "PA",
+    "Capital": "Belém",
+    "Região": "Norte"
+  },
+  {
+    "Estado": "Pernambuco",
+    "Sigla": "PE",
+    "Capital": "Recife",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Piauí",
+    "Sigla": "PI",
+    "Capital": "Teresina",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Rio de Janeiro",
+    "Sigla": "RJ",
+    "Capital": "Rio de Janeiro",
+    "Região": "Sudeste"
+  },
+  {
+    "Estado": "Rio Grande do Norte",
+    "Sigla": "RN",
+    "Capital": "Natal",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "Rio Grande do Sul",
+    "Sigla": "RS",
+    "Capital": "Porto Alegre",
+    "Região": "Sul"
+  },
+  {
+    "Estado": "Rondônia",
+    "Sigla": "RO",
+    "Capital": "Porto Velho",
+    "Região": "Norte"
+  },
+  {
+    "Estado": "Roraima",
+    "Sigla": "RR",
+    "Capital": "Boa Vista",
+    "Região": "Norte"
+  },
+  {
+    "Estado": "Santa Catarina",
+    "Sigla": "SC",
+    "Capital": "Florianópolis",
+    "Região": "Sul"
+  },
+  {
+    "Estado": "Sergipe",
+    "Sigla": "SE",
+    "Capital": "Aracaju",
+    "Região": "Nordeste"
+  },
+  {
+    "Estado": "São Paulo",
+    "Sigla": "SP",
+    "Capital": "São Paulo",
+    "Região": "Sudeste"
+  },
+  {
+    "Estado": "Tocantins",
+    "Sigla": "TO",
+    "Capital": "Palmas",
+    "Região": "Norte"
+  }
+]
