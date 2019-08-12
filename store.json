@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "img": "https://juaopedrosilva.github.io/flex-shop/img/cap.jpg",
+        "description": "Teste0",
+        "name": "Chapéu",
+        "salePrice": 10.50,
+        "isPromation": false,
+        "pricePromation": null
+    },
+    {
+        "id": 2,
+        "img": "https://juaopedrosilva.github.io/flex-shop/img/cap.jpg",
+        "description": "Teste0",
+        "name": "Chapéu",
+        "salePrice": 10.50,
+        "isPromation": true,
+        "pricePromation": 9.50
+    }
+]
